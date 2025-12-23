@@ -3,3 +3,4 @@ scraped_data_raw.csv
 scraped_data_cleaned.csv
 scraped_data_cleaned.json
 __pycache__
+.DS_Store
